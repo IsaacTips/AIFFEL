@@ -2,4 +2,4 @@
 2020.12.28~2021.06.22
 
 [Explorations](https://github.com/IsaacTips/AIFFEL/tree/master/Exploration)<br>
-Fundamentals
+[Fundamentals](https://github.com/IsaacTips/AIFFEL/tree/master/Fundamentals)
