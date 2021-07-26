@@ -5,4 +5,3 @@
 [Fundamentals](https://github.com/IsaacTips/AIFFEL/tree/master/Fundamentals)<br>
 [Going Deeper](https://github.com/IsaacTips/AIFFEL/tree/master/Going_Deeper)
 
-fd
